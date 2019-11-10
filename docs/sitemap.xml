@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://erraX.github.io/blog/categories/</loc>
+    <loc>http://erraX.github.io/blog/</loc>
+    <lastmod>2019-11-10T17:01:43+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://erraX.github.io/blog/</loc>
+    <loc>http://erraX.github.io/blog/posts/my-first-post/</loc>
+    <lastmod>2019-11-10T17:01:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erraX.github.io/blog/posts/</loc>
+    <lastmod>2019-11-10T17:01:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://erraX.github.io/blog/categories/</loc>
   </url>
   
   <url>

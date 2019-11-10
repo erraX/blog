@@ -1,13 +1,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Tags on erraX&#39;s blog</title>
-   <link>http://erraX.github.io/blog/tags/</link>
-   <description>Recent content in Tags on erraX&#39;s blog</description>
+   <title>Posts on erraX&#39;s blog</title>
+   <link>http://erraX.github.io/blog/posts/</link>
+   <description>Recent content in Posts on erraX&#39;s blog</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
+   <lastBuildDate>Sun, 10 Nov 2019 17:01:43 +0800</lastBuildDate>
    
-       <atom:link href="http://erraX.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="http://erraX.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>

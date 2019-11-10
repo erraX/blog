@@ -10,5 +10,14 @@
        <atom:link href="http://erraX.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
    
    
+     <item>
+       <title>My First Post</title>
+       <link>http://erraX.github.io/blog/posts/my-first-post/</link>
+       <pubDate>Sun, 10 Nov 2019 17:01:43 +0800</pubDate>
+       
+       <guid>http://erraX.github.io/blog/posts/my-first-post/</guid>
+       <description></description>
+     </item>
+   
  </channel>
 </rss>
