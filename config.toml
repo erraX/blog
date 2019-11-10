@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "erraX's blog"
+theme = "kiera"
+
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "errax"       #Author name
+    github = "erraX"     #Github username
+    twitter = ""    #Twitter username
+
+[params]
+    tagline = "blogs"
+    customCSS = []  #Optional Customised CSS
