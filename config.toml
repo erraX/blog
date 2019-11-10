@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://erraX.github.io/blog"
 languageCode = "en-us"
 title = "erraX's blog"
 theme = "kiera"
+publishDir = "docs"
 
 pygmentsCodeFences = true
 
